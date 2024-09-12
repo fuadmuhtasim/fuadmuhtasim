@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fuad!
-- 👀 I’m interested in: Software Development and AI Integration
+- 👀 I’m interested in: Software Development and AI Integration into existing projects
 - 🌱 I’m currently learning: React and other Javascript frameworks
 - 💞️ I’m looking to collaborate on: small-mid size projects in C/C++ or Javascript or Python
 - 📫 How to reach me @linkedin: https://www.linkedin.com/in/fmuhtasim/
